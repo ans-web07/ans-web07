@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ans-web07
 - 👀 I’m interested in frontend development.
 - 🌱 I’m currently working on MERN Stack
-- 💞️ I’m looking to collaborate on frontend development and software engineer.
+- 💞️ I’m looking to collaborate on frontend development and software engineer roles.
 - 📫 How to reach me: 07anshika@gmail.com
 
 <!---
