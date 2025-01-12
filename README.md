@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ans-web07
 - 👀 I’m a data engineer.
-- 🌱 I’m currently working on MERN Stack
+- 🌱 I’m currently working on Pyspark,SQL and Azure.
 - 💞️ I’m looking to collaborate on data engineering roles.
 - 📫 How to reach me: 07anshika@gmail.com
 
